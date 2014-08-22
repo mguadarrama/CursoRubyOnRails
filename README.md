@@ -1,21 +1,21 @@
 CursoRubyOnRails
 ================
 ##Chapter 1: An Overview Of Ruby (Part 1)
-What is Ruby?
-Executing Ruby Code
-Getting Input
-Comments
-Numbers
-Strings
-The Class Class
-Decision Making
-The case Construct
-Loops
-Iterators
-Regular Expressions
-Functions
-Odds and Ends
-Time Methods
+*What is Ruby?
+*Executing Ruby Code
+*Getting Input
+*Comments
+*Numbers
+*Strings
+*The Class Class
+*Decision Making
+*The case Construct
+*Loops
+*Iterators
+*Regular Expressions
+*Functions
+*Odds and Ends
+*Time Methods
 ##Chapter 2: An Overview of Ruby (Part 2)
 Arrays
 Array Operator Methods
