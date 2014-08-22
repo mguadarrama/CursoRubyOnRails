@@ -1,22 +1,35 @@
 CursoRubyOnRails
 ================
-##Chapter 1: An Overview Of Ruby (Part 1)
-* What is Ruby?
-* Executing Ruby Code
-* Getting Input
-* Comments
-* Numbers
-* Strings
-* The Class Class
-* Decision Making
-* The case Construct
-* Loops
-* Iterators
-* Regular Expressions
-* Functions
-* Odds and Ends
-* Time Methods
-##Chapter 2: An Overview of Ruby (Part 2)
+
+##Chapter 1: An Introduction to Ruby
+- What is Ruby?
+- Installing Ruby
+- Executing Ruby Code
+- Getting Help
+- Dynamic Types
+- Ruby Reserved Words
+- Naming Conventions
+- Comments
+
+##Chapter 2: Standard Ruby Data Types
+Numbers
+Strings
+Simple Input and Output
+Converting String Input
+Regular Expressions
+Time Methods
+
+##Chapter 3: Language Components
+The if Statement
+The case Construct
+Loops
+Iterators
+Numeric Iterators
+String Iterators
+Methods
+Odds and Ends
+
+##Chapter 4: Collections
 Arrays
 Array Operator Methods
 Array Equality Operator
@@ -28,13 +41,14 @@ Hashes
 Common Hash Methods
 Sorting Hashes
 Iterators with Arrays and Hashes
-Arrays and Functions
-Hashes and Functions
+Arrays and Methods
+Hashes and Methods
 Named Parameters
 Symbols
 Procs
 Closures
-##Chapter 3: Classes
+
+##Chapter 5: Classes
 Objects
 Brief History of OOP
 OOP Vocabulary
@@ -57,7 +71,8 @@ The Math Class
 The NilClass Class
 TrueClass and FalseClass
 Built-in Class Hierarchy
-##Chapter 4: Input and Output
+
+##Chapter 6: Input and Output
 Introduction
 Reading from the Standard Input
 Reading a Character at a Time
@@ -69,9 +84,10 @@ Seeking About Files
 tell
 Capturing Data About Files
 Processing Directories
-##Chapter 5: Exceptions
+
+##Chapter 7: Exceptions
 Introduction
-Exceptions
+Exception Hierarchy
 Handling Exceptions
 Multiple Rescue Clauses
 Exceptions are Classes
@@ -80,14 +96,15 @@ retry
 raise
 Creating Your Own Exceptions
 catch and throw
-##Chapter 6: Modules
+
+##Chapter 8: Modules
 Introduction
 Using Core Ruby Classes
 Ruby Standard Library
 require
 Search Path
 File Organization
-Load
+load
 Modules
 include
 Mixins
@@ -95,26 +112,27 @@ Using the Comparable Module
 Collection Classes
 yield
 Using the Enumerable Module
-##Chapter 7: Odds and Ends
+
+##Chapter 9: Odds and Ends
 Ruby Conventions
-Strings Are References
-The Selection Operator, [ ]
-Index Methods
-Stripping Whitespace Characters
 Bit Manipulation
-The upto Method
 Substituting
-Processing a Line at a Time
 Marshalling
 Reflection
 grep
 Classes are Objects
 Aliasing
 Testing
-Test::Unit
+Test::Unit::TestCase
 Testing Your Own Classes
 Freezing Objects
-##Chapter 9: An Overview Of Ruby on Rails
+
+
+
+
+
+
+##Chapter 10: An Overview Of Ruby on Rails
 What is Ruby on Rails?
 Overview of Rails Components
 Installing Rails
@@ -128,13 +146,15 @@ Adding a Static Page
 Dynamic Pages with Embedded Ruby
 Using the render Method
 Using the link_to Method
-##Chapter 10: Rails and HTML Forms
+
+##Chapter 11: Rails and HTML Forms
 A Basic HTML Form
 Processing an HTML Form
 Working With Form Data
 Other Form Elements
 Form Tag Helpers
-##Chapter 11: Databases and Rails
+
+##Chapter 12: Databases and Rails
 Review of the MVC Architecture
 Entities and Relationships
 Databases and Models
@@ -145,7 +165,8 @@ The Rails Database Console
 Creating a Rails View of a Database Table
 Scaffolding
 RESTful Routes and Resources
-##Chapter 12: Form Helpers and Validation
+
+##Chapter 13: Form Helpers and Validation
 Introduction
 Form Helpers and form_for
 Processing Form Helpers
@@ -161,11 +182,15 @@ The format Validator
 Custom Validation Methods
 The errors Object
 Displaying Validation Errors in the View
-##Chapter 13: Adding Style to an Application
+
+
+##Chapter 14: Adding Style to an Application
 Styling
 Rails and Sass
 Cascading Style Sheets
-##Chapter 14: Users
+
+
+##Chapter 15: Users
 Introduction
 Configuring an Application for Sessions
 Registering Users
@@ -176,7 +201,8 @@ Logging in
 Logging Out
 Protected Pages
 Filters
-##Chapter 15: Putting it All Together
+
+##Chapter 16: Putting it All Together
 Introduction
 The Business Application
 Database Terminology
