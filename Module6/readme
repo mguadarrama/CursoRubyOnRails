@@ -1,0 +1,11 @@
+- Introduction
+- Reading from the Standard Input
+- Reading a Character at a Time
+- Writing to the Standard Output
+- Reading and Writing Disk Files
+- Reading Files Using Iterators
+- I/O With Command Line Commands
+- Seeking About Files
+- tell
+- Capturing Data About Files
+- Processing Directories

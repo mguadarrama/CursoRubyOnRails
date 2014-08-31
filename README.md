@@ -1,7 +1,7 @@
 CursoRubyOnRails
 ================
 
-##Chapter 1: An Introduction to Ruby
+##Module 1: An Introduction to Ruby
 - What is Ruby?
 - Installing Ruby
 - Executing Ruby Code
@@ -11,7 +11,7 @@ CursoRubyOnRails
 - Naming Conventions
 - Comments
 
-##Chapter 2: Standard Ruby Data Types
+##Module 2: Standard Ruby Data Types
 - Numbers
 - Strings
 - Simple Input and Output
@@ -19,7 +19,7 @@ CursoRubyOnRails
 - Regular Expressions
 - Time Methods
 
-##Chapter 3: Language Components
+##Module 3: Language Components
 - The if Statement
 - The case Construct
 - Loops
@@ -29,7 +29,7 @@ CursoRubyOnRails
 - Methods
 - Odds and Ends
 
-##Chapter 4: Collections
+##Module 4: Collections
 - Arrays
 - Array Operator Methods
 - Array Equality Operator
@@ -48,31 +48,19 @@ CursoRubyOnRails
 - Procs
 - Closures
 
-##Chapter 5: Classes
-- Objects
-- Brief History of OOP
-- OOP Vocabulary
-- Creating a New Class
-- Using Objects
-- Defining Operator Methods
+##Module 5: Classes
+- Creating Classes and Objects
+- Instance Variables and Methods
+- Accessors and Virtual Attributes
+- Initialization and Cleanup
 - Inheritance
-- Ancestors
-- self
-- Access Levels - public
-- Access Levels – private
-- Access Levels - protected
-- Access Levels - Specification
-- Class Data and Class Methods
-- Adding Methods to Classes and Objects
-- Special Global Variables
-- Scope of Variables
-- Built-in Classes
-- The Math Class
-- The NilClass Class
-- TrueClass and FalseClass
-- Built-in Class Hierarchy
+- Class Methods and Variables
+- Method Visibility
+- Executable Class Bodies and self
+- Open Classes and Monkey Patching
+- Equality
 
-##Chapter 6: Input and Output
+##Module 6: Input and Output
 - Introduction
 - Reading from the Standard Input
 - Reading a Character at a Time
@@ -85,7 +73,7 @@ CursoRubyOnRails
 - Capturing Data About Files
 - Processing Directories
 
-##Chapter 7: Exceptions
+##Module 7: Exceptions
 - Introduction
 - Exception Hierarchy
 - Handling Exceptions
@@ -97,7 +85,7 @@ CursoRubyOnRails
 - Creating Your Own Exceptions
 - catch and throw
 
-##Chapter 8: Modules
+##Module 8: Modules
 - Introduction
 - Using Core Ruby Classes
 - Ruby Standard Library
@@ -113,21 +101,19 @@ CursoRubyOnRails
 - yield
 - Using the Enumerable Module
 
-##Chapter 9: Odds and Ends
-- Ruby Conventions
-- Bit Manipulation
-- Substituting
-- Marshalling
-- Reflection
-- grep
-- Classes are Objects
-- Aliasing
+##Module 9: Odds and Ends
 - Testing
 - Test::Unit::TestCase
 - Testing Your Own Classes
 - Freezing Objects
 
-##Chapter 10: An Overview Of Ruby on Rails
+
+
+
+
+
+
+##Module 10: An Overview Of Ruby on Rails
 - What is Ruby on Rails?
 - Overview of Rails Components
 - Installing Rails
@@ -142,14 +128,14 @@ CursoRubyOnRails
 - Using the render Method
 - Using the link_to Method
 
-##Chapter 11: Rails and HTML Forms
+##Module 11: Rails and HTML Forms
 - A Basic HTML Form
 - Processing an HTML Form
 - Working With Form Data
 - Other Form Elements
 - Form Tag Helpers
 
-##Chapter 12: Databases and Rails
+##Module 12: Databases and Rails
 - Review of the MVC Architecture
 - Entities and Relationships
 - Databases and Models
@@ -161,7 +147,7 @@ CursoRubyOnRails
 - Scaffolding
 - RESTful Routes and Resources
 
-##Chapter 13: Form Helpers and Validation
+##Module 13: Form Helpers and Validation
 - Introduction
 - Form Helpers and form_for
 - Processing Form Helpers
@@ -179,13 +165,13 @@ CursoRubyOnRails
 - Displaying Validation Errors in the View
 
 
-##Chapter 14: Adding Style to an Application
+##Module 14: Adding Style to an Application
 - Styling
 - Rails and Sass
 - Cascading Style Sheets
 
 
-##Chapter 15: Users
+##Module 15: Users
 - Introduction
 - Configuring an Application for Sessions
 - Registering Users
@@ -197,7 +183,7 @@ CursoRubyOnRails
 - Protected Pages
 - Filters
 
-##Chapter 16: Putting it All Together
+##Module 16: Putting it All Together
 - Introduction
 - The Business Application
 - Database Terminology

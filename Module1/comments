@@ -1,0 +1,9 @@
+# I am a comment.
+
+name = "textvar" # This is again comment
+
+
+=begin
+This is a comment.
+This is a comment, too.
+=end
